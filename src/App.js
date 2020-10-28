@@ -39,7 +39,7 @@ class App extends React.Component {
   render() {
 
     return (
-      <div>
+      <div className='App'>
         <Card data={this.state.userData} followers={this.state.followers} />
       </div>
     )

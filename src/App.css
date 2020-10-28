@@ -1,3 +1,21 @@
 .App {
   text-align: center;
+  background-color: #121212;
+}
+
+.h1calander{
+  color:green;
+  position: absolute;
+  top: 6rem;
+  left: 45rem;
+}
+
+.calander{
+  position: absolute;
+  top: 10rem;
+  left: 30rem;
+}
+
+.border{
+border: green 1px solid;
 }
